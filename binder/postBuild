@@ -1,7 +1,6 @@
 #!/bin/bash
 
 jupyter labextension install --clean \
-                            @jupyter-widgets/jupyterlab-manager \
-                            @pyviz/jupyterlab_pyviz
+                            @jupyter-widgets/jupyterlab-manager
 
 #EOF
